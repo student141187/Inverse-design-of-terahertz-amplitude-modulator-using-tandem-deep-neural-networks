@@ -23,6 +23,12 @@ These parameters directly determine the modulation characteristics in the THz ba
 
 ---
 
+## Dataset
+
+The dataset is available on (https://drive.google.com/file/d/1ANHNpaXbqc6il7UYpddGavSXVmN9R3zC/view?usp=drive_link)
+
+---
+
 ## Requirements
 
 To run the provided scripts, the following software is required. GPU is recommended for training to reduce the lengthy training times.
