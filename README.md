@@ -18,7 +18,6 @@ In this study, the SRR geometry is defined using the following eight parameters:
 - **position of gap in the second gap (G<sub>p_2nd</sub>)**
 - **gap rotation (G<sub>p_r</sub>)**
 
-![ex_Geometry](.\img\Geometry.png)
 
 These parameters directly determine the modulation characteristics in the THz band, and the goal of this work is to perform inverse design to obtain desired spectra by finding appropriate SRR parameters.
 
