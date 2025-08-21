@@ -44,7 +44,6 @@ To run the provided scripts, the following software is required. GPU is recommen
 
 The autoencoder performs nonlinear dimensionality reduction while preserving key spectral features. By projecting input spectra onto a learned manifold, it ensures compatibility with the inverse design model and training data distribution. This projection reduces inconsistencies and guides the network toward physically realistic solutions, improving robustness and accuracy. 
 
-![ex_Autoencoder](.\img\Autoencoder.png)
 
 ---
 
@@ -61,7 +60,6 @@ The optimal model performance was achieved at 500 epochs, producing the files:
 - `Forwardmodel.pth`
 - `Inversemodel.pth`
 
-![ex_Tandem](.\img\Tandem.png)
 
 ---
 
