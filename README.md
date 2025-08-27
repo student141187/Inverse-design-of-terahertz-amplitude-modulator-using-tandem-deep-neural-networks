@@ -3,7 +3,7 @@
 ## Introduction
 
 This repository contains the code used in the following publication:  
-<https://pubs.acs.org/doi/xx.xxxx/acssensors.xxxxxxx>
+<https://pubs.acs.org/doi/xx.xxxx/acsphotonics.xxxxxxx>
 
 Here, we use **tandem deep neural networks** for inverse design for THz metasurfaces composed of split-ring resonators (SRR). SRR-based metasurfaces are widely used because their electromagnetic response can be precisely controlled by adjusting their geometric parameters.
 
